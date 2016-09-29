@@ -7,6 +7,15 @@ image: "img/day4.jpg"
 date:   2016-09-29
 ---
 
+Attention
+===
+Attention is the cognitive process of selectively concentrating on one aspect of the environment while ignoring other things. [__wikipedia__]
+
+|Inattentional blindeness| Changes blindness |
+|---|---|
+|Attention based on what one focuses on. Other things are not perceived | Failure to notice changes happening within in a brief moment|
+
+
 * Feature Integration Theory
 
 
@@ -33,7 +42,7 @@ Basic Features for Saliency
 
 | Overt Attention | Covert Attention |
 | --- | --- |
-| > Direct the eyes to the region of Interest | > direct eyes to ROI without moving your eyes |
+| Direct the eyes to the region of Interest | Direct eyes to ROI without moving your eyes |
 
 
 Read about Scale Spaces Theory in detail.

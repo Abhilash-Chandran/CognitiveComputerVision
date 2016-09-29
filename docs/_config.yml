@@ -1,7 +1,7 @@
 # Site settings
 title: Cognitive Computer Vision
-description: "CCV Lecture Excerpt - Uni Hamburg"
-keywords: "Saliency, VOCUS, Computer Vision, CNN"
-author: "Abhilash Chandran"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+description: CCV Lecture Excerpt - Uni Hamburg
+keywords: Saliency, VOCUS, Computer Vision, CNN
+author: Abhilash Chandran
+baseurl: "/CognitiveComputerVision" # the subpath of your site, e.g. /blog/
+url: "https://abhilash-chandran.github.io" # the base hostname & protocol for your site
