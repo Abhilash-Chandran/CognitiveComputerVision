@@ -11,13 +11,24 @@ Attention
 ===
 Attention is the cognitive process of selectively concentrating on one aspect of the environment while ignoring other things. [__wikipedia__]
 
+__Focus of Attention(FOA)__ is the location where our attention is focused in the current scene.[_Attentional Beam_]. This involves two stages
+1. Pre-Attentive Stage
+  * Happens in parallel without much effort
+  * Automatically without your knowledge
+  * Early in the perception process
+  * Result of this is FOA.
+2. Attentive Stage
+  * Sequentially investigate one region(FOA) at a time.
+
 |Inattentional blindeness| Changes blindness |
 |---|---|
 |Attention based on what one focuses on. Other things are not perceived | Failure to notice changes happening within in a brief moment|
 
 
-* Feature Integration Theory
 
+
+# Feature Integration Theory
+---
 
 Attention Types
 ======
