@@ -12,6 +12,7 @@ date:   2016-09-29
 Attention is the cognitive process of selectively concentrating on one aspect of the environment while ignoring other things. [__wikipedia__]
 
 __Focus of Attention(FOA)__ is the location where our attention is focused in the current scene.[_Attentional Beam_]. This involves two stages
+
 1. Pre-Attentive Stage
   * Happens in parallel without much effort
   * Automatically without your knowledge
@@ -44,6 +45,7 @@ A **_saliency map_** combines the information of all such conspicuity maps into 
 # Visual Attention
 ---
 Visual Attention a.k.a visual search were often tested using artificial visual search tests in which users are asked to locate a target element amongst a group of other element. This difficulty of this task depends of 3 factors.
+
 1. The size of set of elements.
 2. The similarity between the distractor and target.
 3. the similarity between the distractors themselves.
