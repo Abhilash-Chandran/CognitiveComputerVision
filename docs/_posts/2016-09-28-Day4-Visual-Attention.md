@@ -1,6 +1,6 @@
 ---
 title:  "Visual Attention(Day4)"
-subtitle: "Attention, Perception, Feature Integration Theory, Covert0Overt Attention, TD-BU-Cues"
+subtitle: "Attention, Perception, FITheory, C-O(vert) Attn, TD-BU-Cues"
 author: "Abhilash"
 avatar: "img/authors/Abhi.png"
 image: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGiE6TiNg2AGR6apVjrV7uOOWSDSH4sLh2HAt8WI4MLMjyJlAC"
