@@ -1,5 +1,5 @@
 ---
-title:  "Visual Attention(Day4 - Part1)"
+title:  "Visual Attention(Day4 - I)"
 subtitle: "Attention, Perception, FITheory, C-O(vert) Attn, TD-BU-Cues"
 author: "Abhilash"
 avatar: "img/authors/Abhi.png"
